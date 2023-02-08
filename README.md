@@ -8,3 +8,4 @@ Software Engginer, Freelance, Tech enthusiast.
 - [Sahaware Digital](https://sahaware.digital/) Sahaware Company Online Store (as Frontend Developer)
 - [Wofhoo](https://www.fsisystem.com/) Work From Home Workspace Tools (as Frontend Developer)
 - [Aluna Musik](https://app.alunamusik.com/) Musik Publishing And Streaming Platform (as Frontend Developer)
+- [Enakeats](https://customer.enakeats.com/) Self restaurant booking system (as Frontend Developer)
